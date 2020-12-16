@@ -1,6 +1,6 @@
 <template>
   <header
-    class="grid grid-cols-2 justify-between items-center px-5 bg-white border-gray-400 border-b"
+    class="grid grid-cols-2 justify-between items-center px-5 bg-white border-gray-400 border-b z-20 sticky top-0"
   >
     <div class="flex items-center">
       <svg
