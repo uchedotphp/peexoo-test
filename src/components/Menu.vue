@@ -23,7 +23,7 @@
       </svg>
 
       <svg
-        class="arbor-logo__dropbox-wordmark arbor-logo__dropbox-wordmark--micro h-8 mr-3"
+        class="arbor-logo__dropbox-wordmark arbor-logo__dropbox-wordmark--micro h-8 mr-5"
         viewBox="0 0 389 128"
         version="1.1"
         xmlns="http://www.w3.org/2000/svg"
@@ -65,37 +65,37 @@
       </svg>
       <a
         href="#"
-        class="py-6 border-b-2 border-transparent hover:border-black mx-3"
+        class="py-6 border-b-2 border-transparent hover:border-black mx-5"
         >Why Dropbox?</a
       >
       <a
         href="#"
-        class="py-6 border-b-2 border-transparent hover:border-black mx-3"
+        class="py-6 border-b-2 border-transparent hover:border-black mx-5"
         >Features</a
       >
       <a
         href="#"
-        class="py-6 border-b-2 border-transparent hover:border-black mx-3"
+        class="py-6 border-b-2 border-transparent hover:border-black mx-5"
         >Plans &amp; pricing</a
       >
     </div>
     <div class="flex justify-end">
       <a
         href="#"
-        class="py-6 border-b-2 border-transparent hover:border-black mr-3"
+        class="py-6 border-b-2 border-transparent hover:border-black mr-4"
         >Support</a
       >
       <a
         href="#"
-        class="py-6 border-b-2 border-transparent hover:border-black mx-3"
+        class="py-6 border-b-2 border-transparent hover:border-black mx-5"
         >Contact Sales</a
       >
       <a
         href="#"
-        class="py-6 border-b-2 border-transparent hover:border-black mx-3"
+        class="py-6 border-b-2 border-transparent hover:border-black mx-5"
         >Sign in</a
       >
-      <span class="self-center ml-3">
+      <span class="self-center ml-5">
         <button class="px-5 py-1 text-white" style="background: #3b85ff">
           Get started
         </button>
