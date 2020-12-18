@@ -1,7 +1,7 @@
 <template>
   <div class="pb-40" style="background: #ffe7aa">
     <div class="max-w-screen-xl mx-auto grid grid-cols-2">
-      <span class="-mt-32">
+      <span class="-mt-32 img-pane">
         <img
           src="./../assets/images/home-hero-vflMv-jgR.jpg"
           class=""
@@ -27,5 +27,8 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
+.img-pane {
+  
+}
 </style>

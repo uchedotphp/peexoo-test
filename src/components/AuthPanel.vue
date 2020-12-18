@@ -1,6 +1,6 @@
 <template>
   <div
-    class="h-screen bg-white fixed right-0 bottom-0 top-0 w-5/12 z-0 grid content-center"
+    class="auth-pane h-screen fixed right-0 bottom-0 top-0 w-5/12 z-0 grid content-center"
   >
     <div class="pl-14">
       <p class="font-bold text-3xl">Sign up</p>
@@ -54,9 +54,12 @@
 
 <script>
 export default {
-  name: "AuthenticationPanelComponent",
+  name: "AuthenticationPanelComponent"
 };
 </script>
 
 <style lang="scss" scoped>
+.auth-pane {
+  background: #fff;
+}
 </style>
