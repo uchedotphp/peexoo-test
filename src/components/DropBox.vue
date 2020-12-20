@@ -5,6 +5,7 @@
     <AuthenticationPanelComponent />
     <FeatureOne />
     <FeatureThree />
+    <Footer />
   </div>
 </template>
 
@@ -18,6 +19,7 @@ import Jumbotron from "@/components/Jumbotron.vue";
 import AuthenticationPanelComponent from "@/components/AuthPanel.vue";
 import FeatureOne from "@/components/FeatureOne.vue";
 import FeatureThree from "@/components/FeatureThree.vue";
+import Footer from '@/components/Footer.vue';
 export default {
   name: "DropBoxHomeView",
   components: {
@@ -26,6 +28,7 @@ export default {
     AuthenticationPanelComponent,
     FeatureOne,
     FeatureThree,
+    Footer
   },
   mounted() {
     gsap.to(".auth-pane", {
